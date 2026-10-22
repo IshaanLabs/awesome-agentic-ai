@@ -1,0 +1,5 @@
+
+gitstreamlit
+requests
+beautifulsoup4
+ollama
