@@ -1,0 +1,4 @@
+strands-agents
+strands-agents-tools[a2a]
+streamlit
+tavily-python
