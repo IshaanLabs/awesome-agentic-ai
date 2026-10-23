@@ -36,7 +36,7 @@ ai-grammar-checker/
 ### 1. Clone the repository
 
 ```bash
-git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents
 git sparse-checkout set ai-grammer-checker
 git checkout

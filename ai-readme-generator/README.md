@@ -47,7 +47,7 @@ readme/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IshaanLabs/Awesome-AI-Agents/tree/main/ai-readme-generator
+   git clone https://github.com/IshaanLabs/awesome-agentic-ai/tree/main/ai-readme-generator
    cd readme
    ```
 

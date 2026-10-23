@@ -39,7 +39,7 @@ Whether you’re learning LangChain, exploring Ollama, or prototyping your next 
 Get from zero to a working agent in under a minute:
 
 ```bash
-git clone https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents/ai-email-generator
 pip install -r requirements.txt
 streamlit run app.py
@@ -50,7 +50,7 @@ Make sure [Ollama](https://ollama.com/) is running and you’ve pulled a model (
 **Prefer a single folder only?** Use sparse checkout:
 
 ```bash
-git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents
 git sparse-checkout init --cone
 git sparse-checkout set ai-email-generator
@@ -179,7 +179,7 @@ New agents, fixes, and doc improvements are welcome.
 3. List new agents under the right [category](#-browse-agents) in this README
 4. Open a PR describing what changed and how to run it
 
-Keep agents self-contained, local-first when possible, and never commit secrets (use `.env.example`). Ideas or questions? [Open an issue](https://github.com/IshaanLabs/Awesome-AI-Agents/issues).
+Keep agents self-contained, local-first when possible, and never commit secrets (use `.env.example`). Ideas or questions? [Open an issue](https://github.com/IshaanLabs/awesome-agentic-ai/issues).
 
 ---
 
@@ -191,7 +191,7 @@ Licensed under the [Apache License 2.0](LICENSE) — free to use, modify, and sh
 
 ## 💬 Connect
 
-Questions, ideas, or collaboration — [open an issue](https://github.com/IshaanLabs/Awesome-AI-Agents/issues).
+Questions, ideas, or collaboration — [open an issue](https://github.com/IshaanLabs/awesome-agentic-ai/issues).
 
 ⭐ Star the repo to get notified when new agents drop.
 

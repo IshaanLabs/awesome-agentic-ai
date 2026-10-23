@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ### 2. Clone DataOps Agent
 
 ```bash
-git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents
 git sparse-checkout set DataOps-Agent
 git checkout

@@ -39,7 +39,7 @@ Simple_AI_assistant/
 **1. Clone the repo**
 
 ```bash
-git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents
 git sparse-checkout set simple-AI-assistant
 git checkout

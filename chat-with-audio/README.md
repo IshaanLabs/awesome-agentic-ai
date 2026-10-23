@@ -12,15 +12,15 @@
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Transcription | [OpenAI Whisper](https://github.com/openai/whisper) (base model) |
-| Dense Embeddings | [BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) via HuggingFace |
-| Sparse Embeddings | [SPLADE](https://huggingface.co/prithivida/Splade_PP_en_v1) via FastEmbed |
-| Vector Database | [Qdrant](https://qdrant.tech/) (local, Docker) |
-| Hybrid Search | Qdrant RRF (Reciprocal Rank Fusion) |
-| LLM | [Ollama](https://ollama.com/) — `llama2:latest` |
-| UI | [Streamlit](https://streamlit.io/) + [streamlit-chat](https://github.com/AI-Yash/st-chat) |
+| Layer             | Technology                                                                           |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| Transcription     | [OpenAI Whisper](https://github.com/openai/whisper) (base model)                        |
+| Dense Embeddings  | [BAAI/bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) via HuggingFace |
+| Sparse Embeddings | [SPLADE](https://huggingface.co/prithivida/Splade_PP_en_v1) via FastEmbed               |
+| Vector Database   | [Qdrant](https://qdrant.tech/) (local, Docker)                                          |
+| Hybrid Search     | Qdrant RRF (Reciprocal Rank Fusion)                                                  |
+| LLM               | [Ollama](https://ollama.com/) — `llama2:latest`                                      |
+| UI                | [Streamlit](https://streamlit.io/) + [streamlit-chat](https://github.com/AI-Yash/st-chat)  |
 
 ---
 
@@ -39,17 +39,15 @@ chat_with_audio/
 
 ## ⚙️ Installation
 
-
 ### 1. Clone the repository
+
 ```bash
-git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/Awesome-AI-Agents.git
+git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
 cd Awesome-AI-Agents
 git sparse-checkout set chat-with-audio
 git checkout
 cd chat-with-audio
 ```
-
-
 
 ### 2. Prerequisites
 
