@@ -40,7 +40,7 @@ simple_localmCP/
 
 ```bash
 git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
-cd Awesome-AI-Agents
+cd awesome-agentic-ai
 git sparse-checkout set beginner-friendly-LocalMCP-Server
 git checkout
 cd beginner-friendly-LocalMCP-Server

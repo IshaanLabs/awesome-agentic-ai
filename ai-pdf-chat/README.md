@@ -39,7 +39,7 @@ ai-pdf-chat/
 
    ```bash
    git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
-   cd Awesome-AI-Agents
+   cd awesome-agentic-ai
    git sparse-checkout set ai-pdf-chat
    git checkout
    cd ai-pdf-chat

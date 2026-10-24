@@ -40,7 +40,7 @@ Get from zero to a working agent in under a minute:
 
 ```bash
 git clone https://github.com/IshaanLabs/awesome-agentic-ai.git
-cd Awesome-AI-Agents/ai-email-generator
+cd awesome-agentic-ai/ai-email-generator
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -51,7 +51,7 @@ Make sure [Ollama](https://ollama.com/) is running and you’ve pulled a model (
 
 ```bash
 git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
-cd Awesome-AI-Agents
+cd awesome-agentic-ai
 git sparse-checkout init --cone
 git sparse-checkout set ai-email-generator
 git checkout

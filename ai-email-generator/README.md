@@ -24,7 +24,7 @@ AI Email Generator is a Streamlit-based application that helps users draft polis
 **1. Clone the repository**
 ```bash
 git clone --no-checkout --depth=1 --filter=blob:none https://github.com/IshaanLabs/awesome-agentic-ai.git
-cd Awesome-AI-Agents
+cd awesome-agentic-ai
 git sparse-checkout set ai-email-generator
 git checkout
 cd ai-email-generator
