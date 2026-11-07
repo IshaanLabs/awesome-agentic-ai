@@ -1,0 +1,7 @@
+langchain-ollama
+langchain-chroma
+langchain-core
+chromadb
+streamlit
+python-frontmatter
+ollama
