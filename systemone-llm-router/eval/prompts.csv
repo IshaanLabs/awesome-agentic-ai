@@ -1,0 +1,29 @@
+prompt,expected_route
+"Hi there!",small
+"What is the capital of France?",small
+"Define the word ""ephemeral"".",small
+"Translate ""good morning"" into Spanish.",small
+"Thanks a lot for the help",small
+"Rewrite this sentence to sound more formal: ""gonna be late"".",small
+"What does HTTP stand for?",small
+"Explain how vaccines train the immune system.",general
+"Summarize the main causes of the French Revolution.",general
+"Draft a polite email asking my landlord to fix the heating.",general
+"Give me tips for preparing for a job interview.",general
+"Explain the difference between stocks and bonds.",general
+"A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much is the ball?",general
+"Plan a 3-day itinerary for Rome with a budget of 500 euros and explain the trade-offs.",general
+"Should I rent or buy a house if I plan to move in 4 years? Weigh the options.",general
+"If all bloops are razzies and some razzies are lazzies, can a bloop be a lazzie? Reason it out.",general
+"Write a Python function that parses a CSV file and returns a list of dicts.",coding
+"Why does my JavaScript promise resolve before the fetch finishes?",coding
+"Write a regex that matches valid IPv4 addresses.",coding
+"Convert this SQL query to use a CTE instead of a subquery.",coding
+"Explain what this bash command does: find . -name ""*.log"" -mtime +7 -delete",coding
+"Fix the off-by-one error in my binary search implementation.",coding
+"Review this React component for performance issues.",coding
+"Build a full-stack todo app with a database, auth and deployment pipeline and set up the CI for it.",frontier
+"Research ten competitors, collect their pricing pages, build a comparison spreadsheet and email me a summary.",frontier
+"Migrate our whole repository from JavaScript to TypeScript, run the tests, and fix everything that breaks.",frontier
+"Monitor my inbox, triage new emails, draft replies and schedule the follow-up meetings.",frontier
+"Design and implement a multi-agent system that scrapes news, summarizes it and posts daily to Slack.",frontier
